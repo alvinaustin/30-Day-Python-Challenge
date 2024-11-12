@@ -1,11 +1,8 @@
-
-
+author:Aron Bobby Daniel
+Date:12-11-2024
+python of a simple desktop calculator
 number1=int(input("Enter First Number:"))
 number2=int(input("Enter Second Number:"))
-
-
-user=0
-
 print("Select Operation")
 print("1.Addition")
 print("2.Substraction")
@@ -14,8 +11,6 @@ print("4.Division")
 print("5.Floor division")
 print("6.Modulas")
 print("7.Exponential")
-
-
 select=int(input("Select operations from 1,2,3,4,5,6,7:"))
 if select==1:
     sum= number1+number2
