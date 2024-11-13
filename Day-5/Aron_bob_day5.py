@@ -5,7 +5,7 @@ Python Programme of importing math module
 """
 # This will import math module
 import math
-from math import factorial
+
 
 sqrt=math.sqrt(90)
 print("Square Root of '90'=",sqrt)
